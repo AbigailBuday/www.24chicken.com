@@ -1,0 +1,52 @@
+Uri: https://www.24chicken.com/?fbclid=IwAR3KsqbRU40miAb1ZfLboGWsQ1Lva1gNQPzrdduQA2k-26VOa78Hl6uNCv0
+File Name: C:\Downloaded Web Sites\www.24chicken.com\index.html
+Content Type: text/html
+
+Uri: https://www.24chicken.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.24chicken.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.24chicken.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.24chicken.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.24chicken.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.24chicken.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.24chicken.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.24chicken.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.24chicken.com/manifest.json
+File Name: C:\Downloaded Web Sites\www.24chicken.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.24chicken.com/modernizr-custom.js
+File Name: C:\Downloaded Web Sites\www.24chicken.com\modernizr-custom.js
+Content Type: application/javascript
+
+Uri: https://www.24chicken.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.24chicken.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.24chicken.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.24chicken.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.24chicken.com/static/css/5.a52064c8.chunk.css
+File Name: C:\Downloaded Web Sites\www.24chicken.com\static\css\5.a52064c8.chunk.css
+Content Type: text/css
+
+Uri: https://www.24chicken.com/static/css/main.1ede2714.chunk.css
+File Name: C:\Downloaded Web Sites\www.24chicken.com\static\css\main.1ede2714.chunk.css
+Content Type: text/css
+
+Uri: https://www.24chicken.com/static/js/5.0a67c8ea.chunk.js
+File Name: C:\Downloaded Web Sites\www.24chicken.com\static\js\5.0a67c8ea.chunk.js
+Content Type: application/javascript
+
+Uri: https://www.24chicken.com/static/js/main.ae9a83fa.chunk.js
+File Name: C:\Downloaded Web Sites\www.24chicken.com\static\js\main.ae9a83fa.chunk.js
+Content Type: application/javascript
+
